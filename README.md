@@ -1,5 +1,4 @@
 # Jenkins-Docker-Installation
-This repo is to install Jenkins and Docker
 
 Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
 
